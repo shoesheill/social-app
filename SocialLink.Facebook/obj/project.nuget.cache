@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ipar9g7tiyNggJGtmu62CtLK6MjnZnkqeelZrZkjZUPz8dahWLfqCBuvyAg2hj/dhnArxA7WEYyROc2gLgF8AA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shoes\\source\\repos\\Web\\SocialLink.Facebook\\SocialLink.Facebook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shoes\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ih6cIvHnFv3krc4WXspA0aCtCEEGGMNZmR9LPDdVhKZUEAXZcLcvnMsAbgMiKGXFiY3DEh0XGYldDHM5qEJP0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shoes\\source\\repos\\Web\\Web\\Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shoes\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\shoes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
